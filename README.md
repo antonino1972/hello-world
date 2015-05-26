@@ -1,4 +1,4 @@
 # hello-world
-Readme editato 2 1
-
+Readme edtato 2 1
+Nella riga sopra ho cancellato una lettera.
 
