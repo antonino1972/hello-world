@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Readme edtato 2 1
+Nella riga sopra ho cancellato una lettera.
+
